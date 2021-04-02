@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+        <link rel="apple-touch-icon" sizes="180x180" href="img/favicon_io/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="img/favicon_io/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="img/favicon_io/favicon-16x16.png">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="site-wrapper">
+            <nav>
+                <a href="index.html"><img src="/img/icons/RU_SWE_logo/SWE_Logo_Rutgers_University_4C.png" height="70px"></a>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li class="current"><a href="aboutus.html">About Us</a></li>
+                    <li><a href="getinvolved.html">Get Involved</a></li>
+                    <li><a href="corp.html">Corporate</a></li>
+                    <li><a href="contactus.html">Contact Us</a></li>
+                </ul>
+                <div class="burger">
+                    <div class="line1"></div>
+                    <div class="line2"></div>
+                    <div class="line3"></div>
+                </div>
+            </nav>
+            <section class="showcase">
+                <div class="mission">
+                    <div class="container">
+                        <h2>Our Mission</h2>
+                        <p>Rutgers SWE is a community that strives to consistently promote diversity in an inclusive environment, enabling its members to achieve their full potentials in careers as engineers and leaders, while upholding our core pillars of professional development, community, outreach, and mentorship to ensure the respect of everyone’s individual, personal, and career choices.</p>
+                    </div>
+                </div>
+            </section>
+            <section id="eboard">
+                <div class="container">
+                    <div>
+                        <h2>Board Members</h2>
+                    </div>
+                    <div class="img-grid">
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/DeanWhite.jpg">
+                            <h4>Faculty Advisor</h4>
+                            <p>Candiece White</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/MelissaTu.jpg">
+                            <h4>President</h4>
+                            <p>Melissa Tu</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/ShivaniVyas.jpg">
+                            <h4>Internal Vice President</h4>
+                            <p>Shivani Vyas</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/Kinjal.jpg">
+                            <h4>External Vice President</h4>
+                            <p>Kinjal Patel</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/TrinhVu.jpg">
+                            <h4>Secretary</h4>
+                            <p>Trinh Vu</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/Roy.jpg">
+                            <h4>Treasurer</h4>
+                            <p>Roy Kim</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/Bhavini.jpg" width="400px">
+                            <h4>Industry Mentorship Chair</h4>
+                            <p>Bhavini Lakshmanan</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/Anushka.jpg">
+                            <h4>Alumni Relations Chair</h4>
+                            <p>Anushka Pathak</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/Param.jpg">
+                            <h4>High School Outreach Chair</h4>
+                            <p>Param Patel</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/Cate.jpg">
+                            <h4>Fundraising Chair</h4>
+                            <p>Cate Aberant</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/KylieLew.jpg">
+                            <h4>Community Service Chair</h4>
+                            <p>Kylie Lew</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/Jess.jpg">
+                            <h4>Public Relations Chair</h4>
+                            <p>Jessica Carvalho</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/Atmika.jpg">
+                            <h4>Digital Media Chair</h4>
+                            <p>Atmika Ponnusamy</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/Brooklyn.jpg">
+                            <h4>Advocacy Chair</h4>
+                            <p>Brooklyn Castillo</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/Elizabeth.jpg">
+                            <h4>Engineering Governing Council Representative</h4>
+                            <p>Elizabeth DeFazio</p>
+                        </div>
+                        <div class="eboard-box">
+                            <img src="/img/headshots/2020_2021/resized/Sam.jpg">
+                            <h4>Historian</h4>
+                            <p>Samantha Moy</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="pdfs">
+                    <h2>Want to learn more about what we do?</h2>
+                    <p class=""><a href=docs/eboardresponsibilities.pdf target="_blank">Click here to learn about our E-board responsibilities</a></p>
+                    <p class=""> <a href=docs/chairresponsibilities.pdf target="_blank"> Click here to learn about our Chair responsibilities</a></p>
+                </div>
+    
+            </section>  
+            <div class="a-n">
+                <h2>Awards & Newsletters</h2>
+            </div>
+            <div class="badges">
+                <div class="badges-row">
+                    <img src="/img/Badges-Collegiate_Gold2020.png" width="33%">
+                    <img src="/img/Badges-Collegiate_Partnerships2020.png" width="33%">
+                </div>
+                <div class="badges-row">
+                    <img src="/img/Badges-Collegiate_ProfDev2021.png" width="33%">
+                    <img src="/img/Badges-Collegiate_JointProf2021.png" width="33%">
+                    <img src="/img/Badges-Collegiate_MembGrowth2021.png" width="33%">
+                </div>
+            </div>
+            <div class="timeline">
+                <ul>
+                    <li>
+                        <div class="content">
+                            <h3>2020</h3>
+                            <div class="awards">
+                                <p>SWE Mission Award - Gold Collegiate Chapter</p>
+                                <p>SWE Mission Award - Best Practice, Partnerships With Collegiate, Professionals, Industry & Academia</p>
+                            </div>
+                            <a class="button" href="docs/newsletters/Fall 2020 Newsletter.pdf" target="_blank">Spring Newsletter</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="content">
+                            <h3>2019</h3>
+                            <div class="awards">
+                                <p>SWE Mission Award - Gold Collegiate Chapter</p>
+                                <p>WE Local Outstanding Professional Development Event Award</p>
+                                <p>WE Local Joint Professional/Collegiate Event Award</p>
+                            </div>
+                            <a class="button" href="docs/newsletters/newsletter_spring2019.pdf" target="_blank">Spring Newsletter</a>
+                            <a class="button" href="docs/newsletters/Fall 2019 Newsletter.pdf" target="_blank">Fall Newsletter</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="content">
+                            <h3>2018</h3>
+                            <div class="awards">
+                                <p>SWE Mission Award - Gold Collegiate Chapter</p>
+                                <p>SWE Region E Governor's Choice Award</p>
+                                <p>EGC Best Outreach Event</p>
+                                <p>EGC Social Butterfly</p>
+                                <p>EGC Perfect Attendance</p>
+                            </div>                        
+                            <a class="button" href="docs/newsletters/newsletter_fall2018.pdf" target="_blank">Fall Newsletter</a>
+                            <a class="button" href="docs/newsletters/newsletter_spring2018.pdf" target="_blank">Spring Newsletter</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="content">
+                            <h3>2017</h3>
+                            <div class="awards">
+                                <p>EGC Event of the Semester - SHE-SWE-MEET Career Fair</p>
+                                <p>EGC Best High School Outreach</p>
+                                <p>EGC Best Networking Event</p>
+                                <p>EGC Best Jointly Held Event</p>
+                                <p>EGC Best Underrepresented Society</p>
+                                <p>EGC Social Butterfly</p>
+                                <p>SWE Region E Outstanding Collegiate Section First Place</p>
+                            </div>
+                            <a class="button" href="docs/newsletters/newsletter_fall2017.pdf" target="_blank">Fall Newsletter</a>
+                            <a class="button" href="docs/newsletters/newsletter_spring2017.pdf" target="_blank">Spring Newsletter</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="content">
+                            <h3>2016</h3>
+                            <div class="awards">
+    
+                            </div>
+                            <a class="button" href="docs/newsletters/newsletter_fall2016.pdf" target="_blank">Fall Newsletter</a>
+                            <a class="button" href="docs/newsletters/newsletter_spring2016.pdf" target="_blank">Spring Newsletter</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="content">
+                            <h3>2015</h3>
+                            <div class="awards">
+                                <p>SWE Region E Governor's Choice Award</p>
+                                <p>EGC Most Active Rutgers Engineering Organization</p>
+                            </div>
+                            <a class="button" href="docs/newsletters/newsletter_fall2015.pdf" target="_blank">Fall Newsletter</a>
+                            <a class="button" href="docs/newsletters/newsletter_spring2015.pdf" target="_blank">Spring Newsletter</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="content">
+                            <h3>2014</h3>
+                            <div class="awards">
+                                <p>EGC Most Active Rutgers Engineering Organization</p>
+                            </div>
+                            <a class="button" href="docs/newsletters/newsletter_fall2014.pdf" target="_blank">Fall Newsletter</a>
+                            <a class="button" href="docs/newsletters/newsletter_spring2014.pdf" target="_blank">Spring Newsletter</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="content">
+                            <h3>2013</h3>
+                            <div class="awards">
+                                <p>EGC Best Rutgers Engineering Organization</p>
+                            </div>
+                            <a class="button" href="docs/newsletters/newsletter_spring2013.pdf" target="_blank">Spring Newsletter</a>
+                        </div>
+                    </li>
+                    <div style="clear: both;"></div>
+                </ul>
+            </div>
+            <footer>
+                <div class="socials">
+                    <a href="https://www.facebook.com/SWERutgers"><img src="/img/icons/facebook.png" width="30"></a>
+                    <a href="https://www.instagram.com/swerutgers/"><img src="/img/icons/instagram.png" width="45"></a>
+                    <a href="https://twitter.com/SWERutgers"><img src="/img/icons/twitter.png" width="35"></a>
+                </div>
+                <div class="copyright">
+                    <p class="text-center">© Copyright 2020 - Rutgers Society of Women Engineers</p>
+                </div>
+            </footer>
+        </div>
+        
+        <script src="app.js"></script>
+    </body>
+</html>
